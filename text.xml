@@ -1,4 +1,6 @@
-on>9.2.0</version>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<entry>
+    <version>9.2.0</version>
     <ios_version>1</ios_version>
     <url>http://sanfrancisco.kapeli.com/feeds/NodeJS.tgz</url>
     <url>http://london.kapeli.com/feeds/NodeJS.tgz</url>
@@ -352,4 +354,3 @@ on>9.2.0</version>
         </version>
     </other-versions>
 </entry>
-
